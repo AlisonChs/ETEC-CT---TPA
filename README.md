@@ -1,5 +1,5 @@
-# 📚 Hoje eu aprendi - Vetores
-Meu primeiro exercício com vetores.
+# 📚 Re-Aprendendo vetores
+Depois de muito tempo, estes são os meus primeiros exercícios de Vetores.
 
 
 
@@ -11,4 +11,4 @@ O objetivo desse exercício é fundamentar através da prática os conceitos bá
 # 💻 Tecnologias
 As tecnológias utilizadas foram:
 
-&bull;JAVA
+&bull; JAVA
