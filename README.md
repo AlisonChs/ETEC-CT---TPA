@@ -1,5 +1,5 @@
-# 📚 Re-Aprendendo vetores
-Depois de muito tempo, estes são os meus primeiros exercícios de Vetores.
+# 📚 Java
+Este diretório será utilizado para armazenar os exercícios da matéria TPA da ETEC CT.
 
 
 
