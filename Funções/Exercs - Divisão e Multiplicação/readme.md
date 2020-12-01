@@ -6,14 +6,14 @@
 
 ## :blue_book: Objetivo
 
-O objetivo desse exercício é fundamentar através da prática os conceitos de Função e Classe itlizando do Java.
+O objetivo dos exercícios deste diretório é fundamentar através da prática os conceitos de Função e Classe utilizando do Java.
 
 <br>
 <br>
 
 ## :computer: Tecnologias
 
-As tecnológias utilizadas foram:
+As tecnologias utilizadas foram:
 
 ![Badge](https://img.shields.io/static/v1?label=&message=Java&color=FF4040&style=for-the-badge)
 
