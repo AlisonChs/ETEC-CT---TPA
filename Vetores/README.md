@@ -6,7 +6,7 @@
 
 ## :blue_book: Objetivo
 
-O objetivo dos exercícios deste diretório é fundamentar através da prática os conceitos de Função e Classe utilizando do Java.
+O objetivo dos exercícios deste diretório é fundamentar através da prática os conceitos de vetores utilizando do Java.
 
 <br>
 <br>
