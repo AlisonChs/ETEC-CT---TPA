@@ -1,18 +1,10 @@
-# :books: Hoje eu aprendi - Função e Classe
-<p>Exercícios propostos sobre funções e classes pelo orientador do curso.</p>
+📚 Java
+Este diretório será utilizado para armazenar os exercícios da matéria TPA da ETEC CT.
 
-<br>
-<br>
+📘 Objetivo
+O objetivo dos exercícios presentes neste repositório é fundamentar através da prática os conceitos básicos de vetores, matrizes e toda a POO de Java.
 
-## :blue_book: Objetivo
-
-O objetivo desse exercício é fundamentar através da prática os conceitos de Função e Classe itlizando do Java.
-
-<br>
-<br>
-
-## :computer: Tecnologias
-
+💻 Tecnologias
 As tecnológias utilizadas foram:
 
 ![Badge](https://img.shields.io/static/v1?label=&message=Java&color=FF4040&style=for-the-badge)
