@@ -1,4 +1,4 @@
-# 📚 Java
+# 📚 Técnicas de programação avançada: TPA
 Este diretório será utilizado para armazenar os exercícios da matéria TPA da ETEC CT.
 
 # 📘 Objetivo
