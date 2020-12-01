@@ -1,4 +1,4 @@
-# :books: Hoje eu aprendi - Função e Classe
+# :books: Função e Classe
 <p>Exercícios propostos sobre funções e classes pelo orientador do curso.</p>
 
 <br>
